@@ -12,3 +12,6 @@ Selama ini, penentuan jumlah kontainer dilakukan secara manual yang sering menye
 * **Optimasi Biaya:** Model matematika untuk meminimalkan pengeluaran logistik.
 * **Linear Programming:** Implementasi Metode Simplex 
 * **Automasi:** Mengurangi human error dalam perencanaan kapasitas kontainer.
+
+
+link streamlit : https://biayapengiriman.streamlit.app/#sistem-optimasi-logistik-pt-nml
